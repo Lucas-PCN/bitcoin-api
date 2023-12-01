@@ -1,0 +1,24 @@
+{
+  "name": "bitcoin-api",
+  "version": "1.0.0",
+  "description": "Uma API implementada em Node.js para lidar com Bitcoins. A API fornece endpoints para recuperar informações sobre endereços Bitcoin, como saldos, transações e detalhes dos endereços.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-PCN/bitcoin-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-PCN/bitcoin-api/issues"
+  },
+  "homepage": "https://github.com/Lucas-PCN/bitcoin-api#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "express": "^4.18.2"
+  }
+}
